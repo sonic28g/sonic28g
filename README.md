@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm sonic28g</h1>
-<h3 align="center">I'm a computer and informatics engineering student at Universidade de Aveiro and... that's it I think. There's not much to talk about me... Well, that's live I guess.</h3>
+<h3 align="center">I'm a computer and informatics engineering student at Universidade de Aveiro and... that's it I think. There's not much to talk about me... Well, that's life I guess.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
