@@ -13,7 +13,7 @@ I'm a computer and informatics engineering student at Universidade de Aveiro and
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sonic28g&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sonic28g&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
